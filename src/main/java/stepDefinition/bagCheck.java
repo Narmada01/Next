@@ -51,5 +51,6 @@ public class bagCheck extends CommonFunction {
         String getOutput= obj.validateBag();
         String expectedMessage="Pale Pink Heart Cosy Leggings (3mths-7yrs)";
         Assert.assertTrue(getOutput.contains(expectedMessage));
+        System.out.println(getOutput);
     }
 }
