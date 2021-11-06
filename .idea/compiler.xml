@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Next" target="17" />
+      <module name="NextPomCollection" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
